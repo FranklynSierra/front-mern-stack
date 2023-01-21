@@ -44,5 +44,5 @@
   "devDependencies": {
     "tailwindcss": "^3.2.4"
   },
-  "proxy":"https://front-mern.onrender.com"
+  "proxy":"https://back-mern-api.onrender.com"
 }
